@@ -28,7 +28,7 @@ class TransactionForm extends Component {
                 <input name="IFSC" placeholder = "IFSC Code" value= {this.state.IFSC} onChange={this.handleInputChange} /> <br/>
                 <input name="amount" placeholder = "Amount" value= {this.state.amount} onChange={this.handleInputChange} /> <br/>
                 <input name="bName" placeholder = "Branch Name here" value= {this.state.bName} onChange={this.handleInputChange} /> <br/>
-                <button type="submit" > Submit</button>
+                <button type="submit" > Submit123</button>
             </form>
            
         )
